@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+.container{
+background-image: url(https://tuderechoasaber.com.do/wp-content/uploads/2019/02/blockchain.gif)
+
+
+}
+
+.col-md-4{
+	background-color:#3E3F40;
+	display: flex;
+}
+
+
+.jumbotron-heading h1{
+	font-color:white;
+}
+
+.row{
+	background-color:#8edaed;
+}
+
+.card-text{
+	align-content: center;
+	font-size: 12px;
+
+}
+
+
+.card-img-top{
+	width: 100px;
+	height:100px;
+	align-items: center;
+	margin: 50px;
+	padding: 10px;
+	border-color: #447DB7;
+}
+
+.button{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+
+}
